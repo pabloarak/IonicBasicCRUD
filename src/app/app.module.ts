@@ -16,7 +16,7 @@ import { LugaresService } from '../services/lugares.service';
 import { AuthService } from '../services/auth.service';
 
 export const firebaseConfig = {
-  ...
+  
 };
 
 @NgModule({
